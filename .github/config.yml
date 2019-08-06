@@ -1,4 +1,7 @@
 foo: bar
 issues:
-  - project: test-repo
-    column: To do
+  project: test-repo
+  column: To do
+pulls:
+  project: test-repo
+  column: In progress
