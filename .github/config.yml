@@ -1,1 +1,4 @@
 foo: bar
+issues:
+  - project: test-repo
+    column: To do
