@@ -1,7 +1,9 @@
-foo: bar
-issues:
-  board: test board
-  column: To do
-pulls:
-  board: test board
-  column: In progress
+board: test board
+new:
+  issues: To do
+  pulls: In progress
+labels:
+  To do: 'Status: To Do'
+  In progress: 'Status: In Progress'
+  Done: 'Status: Done'
+  
