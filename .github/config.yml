@@ -1,8 +1,8 @@
 board: test board
-new:
+add:
   issues: To do
   pulls: In progress
-labels:
+label:
   To do: 'Status: To Do'
   In progress: 'Status: In Progress'
   Done: 'Status: Done'
