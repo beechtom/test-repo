@@ -1,9 +1,6 @@
-project: test board
-add:
-  issues: To do
-  pulls: In progress
-label:
-  To do: 'Status: To Do'
-  In progress: 'Status: In Progress'
-  Done: 'Status: Done'
-  
+issue:
+  - project: test board
+    column: To do
+pull:
+  - project: test board
+    column: In progress
